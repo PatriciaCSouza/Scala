@@ -1,4 +1,4 @@
-Teste feito utilizando a linguagem de programação Scala. Os códigos tiveram como base o desenvolvimento de outros usuários, mas a ideia principal foi observar e entender o que cada linha de código estava fazendo
+Teste feito utilizando a linguagem de programação Scala. Os códigos tiveram como base o desenvolvimento dos usuários @esdrascosta e @dbalduini, mas a ideia principal foi observar e entender o que cada linha de código estava fazendo
 
 **1) Qual o objetivo do comando cache em Spark?**
 
